@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="logout">"ඉවත් වීම"</string>
+    <string name="login">"ඇතුල් වන්න"</string>
+    <string name="profile">"පැතිකඩ"</string>
+    <string name="register">"ලියාපදිංචි වන්න"</string>
+    <string name="texts">"කතාබස්"</string>
+    <string name="email">"විද්යුත් තැපෑල"</string>
+    <string name="users">"පරිශීලකයින්"</string>
+    <string name="hello_blank_fragment">moka</string>
+    <string name="password">රහස් පදය</string>
+    <string name="forgottenpws">මුරපදය අමතක වුනාද?</string>
+    <string name="createNewAccount">නව ගිණුමක් සාදන්න</string>
+    <string name="userName">පරිශීලක නාමය</string>
+    <string name="enterEmailAddress">විද්‍යුත් තැපැල් ලිපිනය ඇතුළත් කරන්න</string>
+    <string name="send">යවන්න</string>
+    <string name="emailWillBeSent">ඔබගේ මුරපදය නැවත සැකසීමට අපි ඔබට සබැඳියක් ඊමේල් කරන්නෙමු</string>
+    <string name="search">සෙවීම</string>
+    <string name="fieldsAreRequired">සියලුම ක්ෂේත්‍ර අවශ්‍ය වේ</string>
+    <string name="enterValidEmail">වලංගු විද්යුත් - තැපැල් ලිපිනයක් ඇතුලත් කරන්න</string>
+    <string name="pleasecheckyourInbox">කරුණාකර ඔබගේ එන ලිපි පරීක්ෂා කරන්න</string>
+    <string name="resetPassword">මුරපදය නැවත සකසන්න</string>
+    <string name="authenticationFailed">සත්‍යාපනය අසමත් විය!</string>
+    <string name="chats">කතාබස්</string>
+    <string name="minPasswordLen">මුරපදය අවම වශයෙන් අක්ෂර 6 ක් විය යුතුය</string>
+    <string name="invalidPassandUser">ඔබට මෙම විද්‍යුත් තැපෑලෙන් හෝ මුරපදයෙන් ලියාපදිංචි විය නොහැක</string>
+    <string name="typeMessage">පණිවිඩයක් ටයිප් කරන්න ...</string>
+    <string name="youCantSendEmptyMessage">ඔබට හිස් පණිවිඩයක් යැවිය නොහැක</string>
+    <string name="aboutus">අපි ගැන</string>
+    <string name="title_activity_about_us">අපි ගැන</string>
+
+</resources>

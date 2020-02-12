@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Flext</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="texts">TEXTS</string>
+    <string name="users">USERS</string>
+    <string name="profile">PROFILE</string>
+    <string name="logout">Lougout</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgottenpws">Forgot your password?</string>
+    <string name="createNewAccount">Create a new account</string>
+    <string name="userName">username</string>
+    <string name="enterEmailAddress">Enter Email Address</string>
+    <string name="send">Send</string>
+    <string name="emailWillBeSent">We will email you a link to reset your password</string>
+    <string name="search">Search...</string>
+    <string name="fieldsAreRequired">All Fields Are Required</string>
+    <string name="enterValidEmail">Enter a valid Email Address</string>
+    <string name="pleasecheckyourInbox">Please check your Inbox</string>
+    <string name="resetPassword">Reset Password</string>
+    <string name="authenticationFailed">Authentication failed!</string>
+    <string name="chats">Chats</string>
+    <string name="minPasswordLen">password must be at least 6 characters</string>
+    <string name="invalidPassandUser">You can\'t register with this email or password</string>
+    <string name="typeMessage">Type a message...</string>
+    <string name="youCantSendEmptyMessage">You can\'t send empty message</string>
+    <string name="aboutus">About Us</string>
+    <string name="title_activity_about_us">AboutUs</string>
+
+</resources>
