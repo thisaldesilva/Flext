@@ -105,3 +105,6 @@ Non-functional Requirements
 
   IBM Watson Tone Analyzer - (used to provide sentimental analysis - emotional analysis)
 
+## Snapshots 
+
+![](https://github.com/thisaldesilva/maintenance-scheduling-GA/blob/master/Flext/table7.2.PNG)
