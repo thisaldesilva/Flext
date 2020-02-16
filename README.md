@@ -107,9 +107,9 @@ Non-functional Requirements
 
 ## Snapshots 
 
-![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Menu_Page.jpeg)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/MenuPage.jpeg)
 ![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Login.jpeg)
 ![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Register.jpeg)
-![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Password_Reset.jpeg)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/PasswordReset.jpeg)
 ![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Chats.jpeg)
 ![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Users.jpeg)
