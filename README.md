@@ -107,4 +107,9 @@ Non-functional Requirements
 
 ## Snapshots 
 
-![](https://github.com/thisaldesilva/maintenance-scheduling-GA/blob/master/Flext/table7.2.PNG)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Menu_Page.JPEG)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Login.JPEG)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Register.JPEG)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Password_Reset.JPEG)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Chats.JPEG)
+![](https://github.com/thisaldesilva/Flext/blob/master/Flext/Users.JPEG)
